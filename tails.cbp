@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tails" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tails" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tails" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="QExtPublic/QWorkCards.cpp" />
+		<Unit filename="QExtTailPromise/QJump/QFlow.cpp" />
+		<Unit filename="QExtTailSignal/QExtTailBreakingNews.cpp" />
+		<Unit filename="QExtTailTurn/QExtAmbient.cpp" />
+		<Unit filename="QExtTails/QExtTailsAccounts.cpp" />
+		<Unit filename="QExtTails/QExtTailsAnalysis.cpp" />
+		<Unit filename="QExtTails/QExtTailsApis.cpp" />
+		<Unit filename="QExtTails/QExtTailsApple.cpp" />
+		<Unit filename="QExtTails/QExtTailsBase.cpp" />
+		<Unit filename="QExtTails/QExtTailsBasic.cpp" />
+		<Unit filename="QExtTails/QExtTailsCars.cpp" />
+		<Unit filename="QExtTails/QExtTailsCheck.cpp" />
+		<Unit filename="QExtTails/QExtTailsCheckTables.cpp" />
+		<Unit filename="QExtTails/QExtTailsCheckWiki.cpp" />
+		<Unit filename="QExtTails/QExtTailsClass.cpp" />
+		<Unit filename="QExtTails/QExtTailsClick.cpp" />
+		<Unit filename="QExtTails/QExtTailsCollect.cpp" />
+		<Unit filename="QExtTails/QExtTailsCounts.cpp" />
+		<Unit filename="QExtTails/QExtTailsCrews.cpp" />
+		<Unit filename="QExtTails/QExtTailsDocs.cpp" />
+		<Unit filename="QExtTails/QExtTailsEvent.cpp" />
+		<Unit filename="QExtTails/QExtTailsFillCrews.cpp" />
+		<Unit filename="QExtTails/QExtTailsHeaders.cpp" />
+		<Unit filename="QExtTails/QExtTailsInterfaces.cpp" />
+		<Unit filename="QExtTails/QExtTailsLearn.cpp" />
+		<Unit filename="QExtTails/QExtTailsObject.cpp" />
+		<Unit filename="QExtTails/QExtTailsPlums.cpp" />
+		<Unit filename="QExtTails/QExtTailsPublic.cpp" />
+		<Unit filename="QExtTails/QExtTailsTables.cpp" />
+		<Unit filename="QExtTails/QExtTailsTopic.cpp" />
+		<Unit filename="QExtTails/QExtTailsTypes.cpp" />
+		<Unit filename="QExtTails/QTailsKits.cpp" />
+		<Unit filename="QFreeBasic/QRicher/QRicherWin.bas" />
+		<Unit filename="QGetCurrentPos/QCurrentPosHelp.cpp" />
+		<Unit filename="QPerl/komodo/QBuss/QRecordAudioVideos.cpp" />
+		<Unit filename="QPerl/komodo/security.pl" />
+		<Unit filename="QSciAddText/QAddText.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

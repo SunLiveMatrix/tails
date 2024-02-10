@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1707403363 source:/home/admin/lpp.net/tails/main.cpp
+	<iostream>
+
+1707407209 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsApis.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"string"
+
+1707407474 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsBase.cpp
+
+1707407617 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsApple.cpp
+
+1707407808 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsEvent.cpp
+
+1707411354 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsAnalysis.cpp
+
+1707409892 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsBasic.cpp
+
+1707411218 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCheck.cpp
+
+1707411026 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsClass.cpp
+
+1707409681 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsClick.cpp
+
+1707411472 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCounts.cpp
+
+1707410629 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsDocs.cpp
+
+1707410629 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsLearn.cpp
+
+1707410629 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsObject.cpp
+
+1707411026 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsPublic.cpp
+
+1707411026 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsTypes.cpp
+
+1707411026 source:/home/admin/lpp.net/tails/QExtTails/QTailsKits.cpp
+
+1707412059 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsAccounts.cpp
+
+1707412148 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCheckTables.cpp
+
+1707412059 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCheckWiki.cpp
+
+1707412059 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsPlums.cpp
+
+1707412059 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsTables.cpp
+
+1707418014 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCars.cpp
+
+1707418014 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCollect.cpp
+
+1707418835 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsCrews.cpp
+
+1707418835 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsFillCrews.cpp
+
+1707418996 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsHeaders.cpp
+
+1707418014 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsInterfaces.cpp
+
+1707418835 source:/home/admin/lpp.net/tails/QExtTails/QExtTailsTopic.cpp
+
+1707483913 source:/home/admin/lpp.net/tails/QExtTailSignal/QExtTailBreakingNews.cpp
+	"stdio.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"stdfix.h"
+
+1707494870 source:/home/admin/lpp.net/tails/QPerl/komodo/QBuss/QRecordAudioVideos.cpp
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+
+1707514068 source:/home/admin/lpp.net/tails/QExtTailPromise/QJump/QFlow.cpp
+	"float.h"
+	"stdlib.h"
+	"stdint.h"
+	"stdarg.h"
+	"stdfix.h"
+
+1707517626 source:/home/admin/lpp.net/tails/QExtPublic/QWorkCards.cpp
+	"features.h"
+
+1707520449 source:/home/admin/lpp.net/tails/QExtTailTurn/QExtAmbient.cpp
+	"filesystem"
+	"queue"
+	"aio.h"
+	"semaphore"
+	"barrier"
+	"cet.h"
+
+1707523786 source:/home/admin/lpp.net/tails/QGetCurrentPos/QCurrentPosHelp.cpp
+	"thread"
+	"barrier"
+	"map"
+	<parallel/tags.h>
+	<parallel/settings.h>
+
